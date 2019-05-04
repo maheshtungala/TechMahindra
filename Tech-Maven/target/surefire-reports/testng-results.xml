@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="86790" started-at="2019-05-04T06:04:48Z" finished-at="2019-05-04T06:06:15Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="86790" started-at="2019-05-04T06:04:48Z" finished-at="2019-05-04T06:06:15Z">
+      <class name="myPack.Tech">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Tech@1ba5a14]" name="addEmp" duration-ms="62566" started-at="2019-05-04T11:34:48Z" finished-at="2019-05-04T11:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Tech@1ba5a14]" name="deleteEmp" duration-ms="1" started-at="2019-05-04T11:35:51Z" finished-at="2019-05-04T11:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Tech@1ba5a14]" name="editEmp" duration-ms="1" started-at="2019-05-04T11:35:51Z" finished-at="2019-05-04T11:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Tech@1ba5a14]" name="verifyLogin" duration-ms="24196" started-at="2019-05-04T11:35:51Z" finished-at="2019-05-04T11:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Tech -->
+    </test> <!-- myTest -->
+  </suite> <!-- mySuite -->
+</testng-results>
